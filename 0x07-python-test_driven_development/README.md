@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 n - Test-driven development
+=======
+0x07. Python - Test-driven development
+>>>>>>> b6c209a191384f4007b3883970734e1a1365ee08
 Python
 UnitTests
 TDD
@@ -9,3 +13,8 @@ TDD
  An auto review will be launched at the deadline
 Concepts
 For this project, we expect you to look at this concept:
+<<<<<<< HEAD
+=======
+
+Never forget a test
+>>>>>>> b6c209a191384f4007b3883970734e1a1365ee08
