@@ -1,0 +1,2 @@
+inheritance in python language
+
